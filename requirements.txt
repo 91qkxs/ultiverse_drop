@@ -1,0 +1,7 @@
+curl_cffi==0.6.1
+eth_account==0.11.0
+Faker==22.7.0
+loguru==0.7.2
+pandas==2.2.1
+web3==6.15.0
+openpyxl
